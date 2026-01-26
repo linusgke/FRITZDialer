@@ -11,7 +11,7 @@ Dial any phone number on a telephone connected to your FRITZ!Box.
 2. Press the configured key combination (default: Ctrl + Y)<br>
    _(By pressing Ctrl + B you can also call a phone number currently saved in your clipboard.)_
 
-4. If configured, a dialog opens, asking to select to phone from where the selected number is to be called.<br>
+4. If configured, a dialog opens, asking to select the phone from where the selected number is to be called.<br>
    _If not, the number is directly called from the selected phone_
 
 <img width="558" height="392" alt="grafik" src="https://github.com/user-attachments/assets/f9fdbd1a-a8d0-4d0d-9ee9-4fc1c9805aae" />
